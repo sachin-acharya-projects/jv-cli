@@ -1,0 +1,8 @@
+# Virtaul Environments
+.venv
+.env
+
+# Builds
+build
+*.egg-info
+dist
